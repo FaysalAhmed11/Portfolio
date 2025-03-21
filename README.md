@@ -3,6 +3,7 @@ Mohammed Faysal Ahmed(he/him)
 St. John’s, Newfoundland |  falampur@gmail.com | 709-697-7019 |   LinkedIn: https://www.linkedin.com/in/1-ahmed/
 
 Education:
+
 Master of Applied Science in Computer Engineering					               
 Memorial University of Newfoundland							            St. John’s, NL,Canada
 
