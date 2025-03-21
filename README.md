@@ -5,16 +5,21 @@ St. John’s, Newfoundland |  falampur@gmail.com | 709-697-7019 |   LinkedIn: ht
 Education:
 
 Master of Applied Science in Computer Engineering					               
-Memorial University of Newfoundland							            St. John’s, NL,Canada
+Memorial University of Newfoundland						,	                St. John’s, NL,Canada
 
 Bachelor of Science in Computer Science and Engineering				        
-United International University									            Dhaka, Bangladesh
+United International University								,	                Dhaka, Bangladesh
 
 Project Names:
+
 1.AI Assiatant Using Python
   Link: https://github.com/FaysalAhmed11/Python-Practice/tree/main/AI%20Assistant
 
 2.Basic CRM with Django
   Link: https://github.com/FaysalAhmed11/dMYSQL_CRM
 
-3.
+3.Rock Paper Scissor game using Python
+  Link: https://github.com/FaysalAhmed11/Python-Practice/tree/main/Rock%20Paper%20Scissor
+
+4.Basic Snake Game 
+  Link: https://github.com/FaysalAhmed11/Python-Practice/tree/main/Snake%20Game
